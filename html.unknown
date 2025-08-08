@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<title>khaleed restuarent </title>
+<head>
+    <link rel="stylesheet" href="stylo.css">
+</head>
+<body>
+        <h1> Khaleed restuarent </h1>
+        <nav> 
+             <ul>
+                <li>Home |</li>
+                <li>products |</li>
+                <li>About us |</li>
+                <li>contact us | </li>
+            </ul>
+        </nav>
+<div  class="products">
+
+    <div class="one">
+        <img src="20 minutes Spicy Noodles - ever peckish.jpg" width="250px" height="350px">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium voluptas est et amet possimus atque labore, sequi quia fugiat voluptate officia perspiciatis, tenetur, a assumenda?</p>
+    </div>
+
+    <div class="one">
+        <img src="Biryani's House.jpg"width="250px" height="350px">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium voluptas est et amet possimus atque labore, sequi quia fugiat voluptate officia perspiciatis, tenetur, a assumenda?</p>
+    </div>
+
+    <div class="one">
+            <img src="Kerala Style Parotta _ Malabar Parotta _ Layered Paratha - Masalakorb.jpg"width="250px" height="350px">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium voluptas est et amet possimus atque labore, sequi quia fugiat voluptate officia perspiciatis, tenetur, a assumenda?</p>
+    </div>
+    
+    <div class="one">
+            <img src="Meal.jpg"width="250px" height="350px">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium voluptas est et amet possimus atque labore, sequi quia fugiat voluptate officia perspiciatis, tenetur, a assumenda?</p>
+    </div>
+</div>
+
+<div>
+<h1>contact us</h1>
+
+<div class="searchbar">
+
+<p>name<input placeholder="search"></p>
+<p>Age<input placeholder="search"></p>
+<p>E-mail<input placeholder=" search"></p>
+
+</div>
+    
+</body>
